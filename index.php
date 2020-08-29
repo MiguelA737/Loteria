@@ -103,7 +103,8 @@
             }
 
             echo "</table>";
-
+            echo "<p>(C)opyright 2020, Miguel Aguena (Miih737)<p>";
+            
         ?>
 
     </body>
